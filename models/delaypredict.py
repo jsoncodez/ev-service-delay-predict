@@ -12,7 +12,7 @@ from sklearn.inspection import PartialDependenceDisplay
 from sklearn.preprocessing import LabelEncoder
 
 # Dataset load from csv to data frame
-df = pd.read_csv("./data/car_service_dataset.csv")
+df = pd.read_csv("./car_service_dataset.csv")
 
 # Encode Categorical datatypes to num tool
 le = LabelEncoder()
