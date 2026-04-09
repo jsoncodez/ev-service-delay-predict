@@ -6,7 +6,6 @@ kaggle
 # ML
 scikit-learn
 xgboost
-tensorflow
 torch
 
 # Visualization
