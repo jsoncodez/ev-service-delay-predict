@@ -1,0 +1,24 @@
+# Data processing
+pandas
+numpy
+kaggle
+
+# ML
+scikit-learn
+xgboost
+tensorflow
+torch
+
+# Visualization
+matplotlib
+seaborn
+
+# Web
+Flask
+Flask-Cors
+
+# Save models
+joblib
+
+# Render
+gunicorn
