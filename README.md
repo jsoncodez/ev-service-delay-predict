@@ -11,9 +11,8 @@ Predict service delay risk and wait time for electric vehicle (EV) service cente
 - [Models](#models)  
 - [Results](#results)  
 - [API Usage](#api-usage)  
-- [Tech Stack](#tech-stack)  
 - [Setup & Run](#setup--run)  
-- [Future Improvements](#future-improvements)  
+- [Future Improvements - TBD](#future-improvements) 
 
 ---
 
@@ -91,3 +90,16 @@ Content-Type: application/json
     "backlog_size": 3,
     "demand_capacity_ratio": 0.83
 }
+```
+---
+
+## Setup & Run
+```bash
+git clone https://github.com/yourusername/ev-service-delay-prediction.git
+cd ev-service-delay-prediction
+
+pip install -r requirements.txt
+
+python app.py
+
+```
