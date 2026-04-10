@@ -95,7 +95,7 @@ Content-Type: application/json
 
 ## Setup & Run
 ```bash
-git clone https://github.com/yourusername/ev-service-delay-prediction.git
+git clone https://github.com/jsoncodez/ev-service-delay-prediction.git
 cd ev-service-delay-prediction
 
 pip install -r requirements.txt
